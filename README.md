@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 🔮
+- 👾 I'm currently learning Artificial Intelligence with Python.
 
 <!--
 **ayarde246/ayarde246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
